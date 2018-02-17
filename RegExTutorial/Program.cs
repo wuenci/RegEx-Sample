@@ -20,7 +20,6 @@ namespace RegExTutorial
                 Console.WriteLine("Matching");
             }
 
-            Console.ReadKey();
         }
     }
 }
